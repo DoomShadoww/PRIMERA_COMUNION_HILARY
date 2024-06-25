@@ -1,7 +1,8 @@
 const images = [
     { src: "carrusel-img/h1.jpg" },
     { src: "carrusel-img/h2.jpg" },
-    { src: "carrusel-img/h3.jpg" },
+    { src: "carrusel-img/h3.jpg " },
+    { src: "carrusel-img/h4.jpg " }
   
    
   ];
